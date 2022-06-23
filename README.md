@@ -1,6 +1,6 @@
 # chrome_newtab_imgs
 
-Collection of andomised background images for Google Chrome new tabs
+> Collection of randomised background images for Google Chrome new tabs.
 
 It had came to my recent attention the default New Tabs in Chrome has an option to use a random picture everyday as the backgrond image:
 
@@ -10,7 +10,7 @@ After some digging online and on my own, I misteriously discovered at this [foru
 
 ## Disclaimer
 
-*It's worth noting that these high-quality images, have their respective authors on 500px, and those images are not available to be downloaded without watermark, not to mention they may not be licensed for other uses, despite within Chrome, they are available on Google's servers with no watermarks. Therefore, this repository or its owner cannot bear any responsibility for you, for any potential legal implications as a result of using these copyrighted materials.*
+*It's worth noting that these high-quality images, do have their respective authors on 500px, and they are not available to be downloaded without watermark, not to mention they may not be licensed for any other uses, despite within Chrome, they are available on Google's servers with no watermarks. Therefore, this repository or its owner cannot bear any responsibility for you, for any potential legal implications as a result of using these copyrighted materials.*
 
 *If the relevant copyright owner(s) consider this repository inappropriate or infringing, please contact me via `i@focuschen.com`, and I will be happy to assist.*
 
